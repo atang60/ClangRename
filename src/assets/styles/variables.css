@@ -1,0 +1,57 @@
+:root {
+  /* Colors - Light Theme */
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f5f6fa;
+  --color-bg-tertiary: #ebedf3;
+  --color-bg-hover: #e8eaf0;
+  --color-border: #d0d5dd;
+  --color-border-light: #e4e7ec;
+  --color-text-primary: #1a1a2e;
+  --color-text-secondary: #5a5f7a;
+  --color-text-tertiary: #9095b0;
+  --color-accent: #4f6ef7;
+  --color-accent-hover: #3b5de7;
+  --color-accent-light: #eef1fe;
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  --color-danger-light: #fef2f2;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 24px;
+  --spacing-2xl: 32px;
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-size-xs: 11px;
+  --font-size-sm: 12px;
+  --font-size-md: 13px;
+  --font-size-lg: 14px;
+  --font-size-xl: 16px;
+  --font-size-2xl: 20px;
+
+  /* Layout */
+  --header-height: 48px;
+  --sidebar-width: 340px;
+  --statusbar-height: 32px;
+  --preview-height: 180px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+}

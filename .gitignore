@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-electron/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Release / packaged artifacts
+release/
+win-unpacked/
+*.dmg
+*.zip
+*.blockmap
+*.exe
+*.app
+*.asar
