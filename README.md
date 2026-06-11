@@ -94,6 +94,9 @@ renamed/
 └── vite.config.ts      # Vite 配置
 ```
 
+## 程序下载地址 / Download
+https://www.ai-finder.cn/discount/3634.html
+
 ## 许可 / License
 
-Clang 辰朗科技
+atang60
